@@ -14,7 +14,7 @@ gem 'bartt-ssl_requirement', '~>1.4.0', :require => 'ssl_requirement'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3-ruby', :require => 'sqlite3'
-
+#new line
 # Use Authlogic for security
 gem "authlogic", :git => "git://github.com/odorcicd/authlogic.git", :branch => "rails3"
 
